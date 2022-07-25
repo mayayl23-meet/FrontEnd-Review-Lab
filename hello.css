@@ -1,3 +1,26 @@
-background {
-	color: red;
+body {
+	background-color: palevioletred;
 }
+
+
+#title { color: white; }
+
+.redbull /*[1,7] */{color: darkblue;}
+
+.ferrari /*[9,18]*/ {color: #ff2800;}
+
+.williams /*[5,13]*/ {color: royalblue;}
+
+.alphatauri /*[6,12] */{color: ivory;}
+
+.mclaren /*[*//*2,3]*/ {color: orange;}
+
+.mercedes /*[16,19] */{color: silver;}
+
+.astonmartin /*[4,10] */{color: forestgreen;}
+
+.alpine /*[8,15]*/ {color: dodgerblue;}
+
+.haas /*[11,17] */{color: gold;}
+
+.alfaromeo /*[14,20]*/ {color: darkred;}
