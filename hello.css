@@ -1,26 +1,26 @@
 body {
-	background-color: palevioletred;
+	background-color: hotpink;
 }
 
 
-#title { color: white; }
+#title { color: #880808; }
 
-.redbull /*[1,7] */{color: darkblue;}
+.redbull {color: darkblue;}
 
-.ferrari /*[9,18]*/ {color: #ff2800;}
+.ferrari {color: #ff2800;}
 
-.williams /*[5,13]*/ {color: royalblue;}
+.williams {color: royalblue;}
 
-.alphatauri /*[6,12] */{color: ivory;}
+.alphatauri {color: ivory;}
 
-.mclaren /*[*//*2,3]*/ {color: orange;}
+.mclaren {color: orange;}
 
-.mercedes /*[16,19] */{color: silver;}
+.mercedes {color: silver;}
 
-.astonmartin /*[4,10] */{color: forestgreen;}
+.astonmartin {color: forestgreen;}
 
-.alpine /*[8,15]*/ {color: dodgerblue;}
+.alpine {color: dodgerblue;}
 
-.haas /*[11,17] */{color: gold;}
+.haas {color: gold;}
 
-.alfaromeo /*[14,20]*/ {color: darkred;}
+.alfaromeo {color: darkred;}

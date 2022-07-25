@@ -1,7 +1,3 @@
 function changeBackgroundColor(color) {
-	document.getElementsByTagName(body)
-	body.style.color = color
-
-
-
+	document.getElementsByTagName("body")[0].style.backgroundColor = color;
 }
